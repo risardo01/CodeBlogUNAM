@@ -1,0 +1,4 @@
+[submodule "ExamUNAM/public"]
+	path = ExamUNAM/public
+	url = git@github.com:risardo01/BlogUNAM.github.io.git
+	branch = main

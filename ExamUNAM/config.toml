@@ -1,0 +1,5 @@
+baseURL = "git@github.com:risardo01/BlogUNAM.github.io.git"
+languageCode = "en-us"
+title = "Risardo01"
+
+theme = "contrast-hugo"
