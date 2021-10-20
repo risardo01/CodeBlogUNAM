@@ -1,4 +1,4 @@
-baseURL = "git@github.com:risardo01/BlogUNAM.github.io.git"
+baseURL = "https://risardo01.github.io/BlogUNAM.github.io/"
 languageCode = "en-us"
 title = "Risardo01"
 
